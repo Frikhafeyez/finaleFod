@@ -1,0 +1,15 @@
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\bin\Debug\netstandard2.0\FrontEndSmartCoiffure.deps.json
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\bin\Debug\netstandard2.0\FrontEndSmartCoiffure.dll
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\bin\Debug\netstandard2.0\ref\FrontEndSmartCoiffure.dll
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\bin\Debug\netstandard2.0\FrontEndSmartCoiffure.pdb
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\obj\Debug\netstandard2.0\FrontEndSmartCoiffure.csprojAssemblyReference.cache
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\obj\Debug\netstandard2.0\Views\GenderBtn.xaml.g.cs
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\obj\Debug\netstandard2.0\FrontEndSmartCoiffure.AssemblyInfoInputs.cache
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\obj\Debug\netstandard2.0\FrontEndSmartCoiffure.AssemblyInfo.cs
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\obj\Debug\netstandard2.0\FrontEndSmartCoiffure.csproj.CoreCompileInputs.cache
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\obj\Debug\netstandard2.0\XamlC.stamp
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\obj\Debug\netstandard2.0\FrontEndSmartCoiffure.dll
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\obj\Debug\netstandard2.0\ref\FrontEndSmartCoiffure.dll
+C:\fod\FrontEndSmartCoiffure\FrontEndSmartCoiffure\FrontEndSmartCoiffure\obj\Debug\netstandard2.0\FrontEndSmartCoiffure.pdb
