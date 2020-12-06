@@ -1,0 +1,75 @@
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.exe
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.deps.json
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.runtimeconfig.json
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.runtimeconfig.dev.json
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.dll
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.pdb
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.dll
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.pdb
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.csprojAssemblyReference.cache
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.AssemblyInfoInputs.cache
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.AssemblyInfo.cs
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.csproj.CoreCompileInputs.cache
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.RazorTargetAssemblyInfo.cache
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.csproj.CopyComplete
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\staticwebassets\BackEndSmartCoiffure.StaticWebAssets.Manifest.cache
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\staticwebassets\BackEndSmartCoiffure.StaticWebAssets.xml
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.dll
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.pdb
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.genruntimeconfig.cache
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.dll
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.pdb
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.dll
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.dll
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.pdb
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.pdb
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.csprojAssemblyReference.cache
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.AssemblyInfoInputs.cache
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.AssemblyInfo.cs
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.csproj.CoreCompileInputs.cache
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.MvcApplicationPartsAssemblyInfo.cache
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.RazorTargetAssemblyInfo.cache
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.csproj.CopyComplete
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.dll
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.pdb
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\appsettings.Development.json
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\appsettings.json
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.exe
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.deps.json
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.runtimeconfig.json
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.runtimeconfig.dev.json
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.dll
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.pdb
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\staticwebassets\BackEndSmartCoiffure.StaticWebAssets.Manifest.cache
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\staticwebassets\BackEndSmartCoiffure.StaticWebAssets.xml
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.genruntimeconfig.cache
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.exe
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.deps.json
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.runtimeconfig.json
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.runtimeconfig.dev.json
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.dll
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\BackEndSmartCoiffure.pdb
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.dll
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.dll
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.pdb
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.pdb
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.csprojAssemblyReference.cache
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.AssemblyInfoInputs.cache
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.AssemblyInfo.cs
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.csproj.CoreCompileInputs.cache
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.RazorTargetAssemblyInfo.cache
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.csproj.CopyComplete
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\staticwebassets\BackEndSmartCoiffure.StaticWebAssets.Manifest.cache
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\staticwebassets\BackEndSmartCoiffure.StaticWebAssets.xml
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.dll
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.pdb
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\BackEndSmartCoiffure\obj\Debug\netcoreapp3.1\BackEndSmartCoiffure.genruntimeconfig.cache

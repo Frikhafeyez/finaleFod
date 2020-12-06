@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyApplicationBackend.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MyApplicationBackend.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MyApplicationBackend.Infrastructure.dll": {}
+        }
+      },
+      "MyApplicationBackend.Domain/1.0.0": {
+        "runtime": {
+          "MyApplicationBackend.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyApplicationBackend.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyApplicationBackend.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

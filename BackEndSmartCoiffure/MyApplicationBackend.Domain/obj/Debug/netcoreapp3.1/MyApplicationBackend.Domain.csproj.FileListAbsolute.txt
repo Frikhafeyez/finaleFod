@@ -1,0 +1,18 @@
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.deps.json
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.dll
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.pdb
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\obj\Debug\netcoreapp3.1\MyApplicationBackend.Domain.csprojAssemblyReference.cache
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\obj\Debug\netcoreapp3.1\MyApplicationBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\obj\Debug\netcoreapp3.1\MyApplicationBackend.Domain.AssemblyInfo.cs
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\obj\Debug\netcoreapp3.1\MyApplicationBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\obj\Debug\netcoreapp3.1\MyApplicationBackend.Domain.dll
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\obj\Debug\netcoreapp3.1\MyApplicationBackend.Domain.pdb
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.deps.json
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.dll
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.pdb
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\obj\Debug\netcoreapp3.1\MyApplicationBackend.Domain.csprojAssemblyReference.cache
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\obj\Debug\netcoreapp3.1\MyApplicationBackend.Domain.AssemblyInfoInputs.cache
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\obj\Debug\netcoreapp3.1\MyApplicationBackend.Domain.AssemblyInfo.cs
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\obj\Debug\netcoreapp3.1\MyApplicationBackend.Domain.csproj.CoreCompileInputs.cache
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\obj\Debug\netcoreapp3.1\MyApplicationBackend.Domain.dll
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Domain\obj\Debug\netcoreapp3.1\MyApplicationBackend.Domain.pdb

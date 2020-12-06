@@ -1,0 +1,36 @@
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.deps.json
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.dll
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.pdb
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.dll
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.pdb
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.AssemblyInfo.cs
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.csproj.CopyComplete
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.dll
+C:\Users\Feyez FRIKHA\Documents\WorkspaceXamarin\projetDS\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.pdb
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.csprojAssemblyReference.cache
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.AssemblyInfoInputs.cache
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.AssemblyInfo.cs
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.csproj.CoreCompileInputs.cache
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.dll
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.pdb
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.deps.json
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.dll
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.pdb
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.dll
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.pdb
+B:\ProjetFodXamarin\BackEnd\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.csproj.CopyComplete
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.deps.json
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.dll
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.pdb
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.dll
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\bin\Debug\netcoreapp3.1\MyApplicationBackend.Domain.pdb
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.AssemblyInfo.cs
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.csproj.CopyComplete
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.dll
+C:\Users\Feyez FRIKHA\source\repos\Fod\fodSmartCoiffure\BackEndSmartCoiffure\MyApplicationBackend.Infrastructure\obj\Debug\netcoreapp3.1\MyApplicationBackend.Infrastructure.pdb
